@@ -32,3 +32,16 @@ opportunity for you to have fun with your code and show your creativity.
 When you've completed the task, please email your project in a zip folder to 
 jamieson@quandri.io with the subject line: `Robotic Researcher - Quandri Backend Python 
 Interview`
+
+
+
+## Assumptions
+* The application's UI is the console.
+* Users will be fluent in English.
+* All scientists included in the list will have a date of death.
+
+## Running
+The command `python main.py` will start the application.
+
+## Testing
+A testing suite has been provided using the unittest library. To run the full suite of tests enter `test`
